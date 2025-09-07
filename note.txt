@@ -1,0 +1,38 @@
+font-family
+	poppins 400, 500, 700
+	rob 400
+
+	font-family: "poppins",
+	sans-serif;
+	font-family: "Roboto",
+	sans-serif;
+
+color 
+	#000000 - black
+	#21B573 - green
+	#ffffff - white
+	#FD511A - red
+
+
+
+button 
+section title
+
+feature item
+
+course item
+
+testimony
+
+
+alignment
+order
+size
+space
+
+xxl-xl-lg		md 		sm-com
+header-
+
+banner
+pb: 65px	65px	60px
+h1 : 48
